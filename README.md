@@ -8,4 +8,4 @@
 
 - <img src="icons/watchmen.ico" alt="Watchmen" width="20px"/> Reading Watchmen
 
-- <img src="icons/linkedin.svg" alt="LinkedIn" width="20px"/> Check my LinkedIn profile: https://www.linkedin.com/in/pemesteves/  
+- <img src="icons/linkedin.png" alt="LinkedIn" width="20px"/> Check my LinkedIn profile: https://www.linkedin.com/in/pemesteves/  
