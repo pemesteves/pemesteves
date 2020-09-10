@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently converting educational games from Adobe Flash to Unity for LusoInfo
-- 🌱 Learning CryEngine 5.6
+- <img src="icons/cryengine.ico" alt="CryEngine" width="20px"/> Learning CryEngine 5.6
 - 🥖 Learning french
-- 🙂 Reading Watchmen
-- 📫 Check my LinkedIn profile: https://www.linkedin.com/in/pemesteves/  
+- <img src="icons/watchmen.ico" alt="Watchmen" width="25px"/> Reading Watchmen
+-  Check my LinkedIn profile: https://www.linkedin.com/in/pemesteves/  
