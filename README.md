@@ -11,4 +11,4 @@
 
 - <img src="icons/platinum.png" alt="Platinum Trophy" width="20px"/> Trophy Hunter in my free time:
 
-<a href="https://psnprofiles.com/funeven"><img src="https://card.psnprofiles.com/2/funeven.png" border="0"></a>
+<a href="https://psnprofiles.com/funeven"><img src="https://card.psnprofiles.com/2/funeven.png?" border="0"></a>
