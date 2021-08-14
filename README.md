@@ -3,6 +3,8 @@
 
 - <img src="icons/baguette.png" alt="Baguette" width="20px" max-width="20px"/> Learning french
 
+- <img src="icons/vforvendetta.png" alt="V For Vendetta" wifth="20px" max-width="20px"/> Reading V For Vendetta
+
 - <img src="icons/piano.png" alt="Piano" width="20px" max-width="20px"/> Playing Liebestraum No. 3 (Franz Liszt)
 
 - <img src="icons/platinum.png" alt="Platinum Trophy" width="20px" max-width="20px"/> Trophy Hunter in my free time:
