@@ -2,7 +2,8 @@
 
 Hi there! 👋
 
-My name is **Pedro Esteves**, and I'm a Sofware Developer and Game Programmer from Amarante, Portugal. Currently, I'm taking a **Master's in Informatics and Computing Engineering** at FEUP, which I plan to finish this year.
+My name is **Pedro Esteves**, and I'm a Sofware Developer and Game Programmer from Amarante, Portugal. In 2022, I graduated from the **University of Porto** with a **Master's degree** in **Informatics and Computing Engineering**.
+
 
 I have been passionate about video games since I was a kid, which made me want to learn more about their development.
 So, I always try to participate in game jams and programming contests when possible.
@@ -15,10 +16,10 @@ You can see these games on my [itch.io page](https://pemesteves.itch.io).
 </div>
 
 Besides studying and working, I love playing games and learning new things. I'm currently:
-- <img src="icons/baguette.png" alt="Baguette" width="20px" max-width="20px"/> Learning french
-- <img src="icons/vforvendetta.png" alt="V For Vendetta" width="20px" max-width="20px"/> Reading V For Vendetta
-- <img src="icons/piano.png" alt="Piano" width="20px" max-width="20px"/> Playing Liebestraum No. 3 (Franz Liszt)
-- <img src="icons/platinum.png" alt="Platinum Trophy" width="20px" max-width="20px"/> And hunting PlayStation trophies:
+- 🥖 Learning french
+- 📘 Reading Blood, Sweat, and Pixels
+- 🎹 Playing Liebestraum No. 3 (Franz Liszt)
+- 🏆 And hunting PlayStation trophies:
 
 <div align="center">
   <a href="https://psnprofiles.com/funeven"><img src="https://card.psnprofiles.com/2/funeven.png?" border="0"></a>
